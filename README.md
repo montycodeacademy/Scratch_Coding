@@ -9,4 +9,4 @@ Run program by clicking on the Scratch Icon
 
 Load one of the programs (.sb3 extension file)
 
-The MP3 files with the same name are vidoes on how this program works
+The MKV files with the same name are vidoes on how this program works
